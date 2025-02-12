@@ -1,6 +1,5 @@
 👋 Hi, I'm João Victor Ragazzi
 
-🚀 About Me
 I'm a Front-End Developer passionate about creating interactive and immersive experiences. My background in Architecture and Urbanism introduced me to Virtual Reality (VR) and Augmented Reality (AR), which ultimately led me to the world of programming. Since 2023, I've been dedicated to web development, specializing in React, Angular, and JavaScript while also exploring Three.js, Unity, and C# for 3D applications.
 
 Currently, I'm pursuing a Technical Degree in Systems Analysis and Development, with an expected graduation in 2027. I hold a certification in Front-End Development from EBAC and have worked on various personal and collaborative projects.
