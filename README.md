@@ -47,6 +47,12 @@ An interactive 3D solar system visualization tool for educational purposes.
 
 ---
 
+🌎 Portfolio
+Check out my portfolio to see my latest work and projects!
+- Portfolio: [jvragazzi.dev](https://www.jvragazzi.dev)
+
+---
+
 📫 Contact Me
 - Email: jvictorragazzi@gmail.com
 - LinkedIn: [linkedin.com/in/jvictorragazzi](https://www.linkedin.com/in/jvictorragazzi)
