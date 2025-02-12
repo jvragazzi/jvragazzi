@@ -1,16 +1,55 @@
-# 💫 About Me:
-# 👋 Hi, I'm João Victor Ragazzi<br><br>## 🚀 About Me<br>I'm a **Front-End Developer** passionate about creating interactive and immersive experiences. My background in **Architecture and Urbanism** introduced me to **Virtual Reality (VR) and Augmented Reality (AR)**, which ultimately led me to the world of programming. Since 2023, I've been dedicated to web development, specializing in **React, Angular, and JavaScript** while also exploring **Three.js, Unity, and C#** for 3D applications.<br><br>Currently, I'm pursuing a **Technical Degree in Systems Analysis and Development, with an expected graduation in 2027. I hold a certification in **Front-End Development** from **EBAC** and have worked on various personal and collaborative projects.<br><br>---<br><br>## 💼 Experience<br><br>### Me Indica Um Filme (Personal Project)<br>- **Tech Stack:** React, Vite, API Integration<br>- **Role:** Designed and developed a movie recommendation platform using IMDb ratings<br><br>### SouJunior (Volunteer Front-End Developer)<br>- **Tech Stack:** React, TypeScript, GitHub, Agile Methodologies<br>- **Role:** Developed and maintained the official website, improving UI/UX and performance<br><br>### Arteix Website (Freelance Front-End Developer)<br>- **Tech Stack:** React, Vite, Tailwind CSS<br>- **Role:** Built a fully responsive website for a French export company from scratch<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Programming Languages:<br>- **JavaScript (ES6+)**, **TypeScript**, **C#**<br><br>### Front-End Development:<br>- **React.js**, **Angular**, **Three.js**<br>- **HTML5**, **CSS3 (SCSS, Tailwind CSS)**<br><br>### Back-End & Databases:<br>- **Node.js**, **Express.js**<br>- **MongoDB**, **Firebase**<br><br>### Tools & Version Control:<br>- **Git & GitHub**, **Figma**, **Vite**, **Webpack**<br><br>### Game Development & 3D:<br>- **Unity (C#), Blender, VR/AR Development**<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🎬 Me Indica Um Filme<br>A movie recommendation platform based on IMDb ratings and user preferences.<br>- **Tech:** React, Vite, API Integration<br>- **GitHub Repo:** [meindicaumfilme](https://github.com/jvictorragazzi/meindicaumfilme)<br><br>### 🏛️ Arteix Website<br>A modern website built for an export company, featuring an elegant UI.<br>- **Tech:** React, Tailwind CSS, Vite<br>- **Live Demo:** [arteix.com](https://www.arteix.com)<br><br>### 🎮 Solar System Viewer (Three.js Project)<br>An interactive 3D solar system visualization tool for educational purposes.<br>- **Tech:** Three.js, JavaScript, WebGL<br>- **GitHub Repo:** [solar-system-3d](https://github.com/jvictorragazzi/solar-system-3d)<br><br>---<br><br>## 📫 Contact Me<br>- **Email:** jvictorragazzi@gmail.com<br>- **LinkedIn:** [linkedin.com/in/jvictorragazzi](https://www.linkedin.com/in/jvictorragazzi)<br>- **GitHub:** [github.com/jvictorragazzi](https://github.com/jvictorragazzi)<br><br>Let's build something awesome together! 🚀<br>
+👋 Hi, I'm João Victor Ragazzi
 
+🚀 About Me
+I'm a Front-End Developer passionate about creating interactive and immersive experiences. My background in Architecture and Urbanism introduced me to Virtual Reality (VR) and Augmented Reality (AR), which ultimately led me to the world of programming. Since 2023, I've been dedicated to web development, specializing in React, Angular, and JavaScript while also exploring Three.js, Unity, and C# for 3D applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvragazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvictorragazzi@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jvragazzi&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jvragazzi&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvragazzi&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Currently, I'm pursuing a Technical Degree in Systems Analysis and Development, with an expected graduation in 2027. I hold a certification in Front-End Development from EBAC and have worked on various personal and collaborative projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jvragazzi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🛠 Tech Stack
+
+Programming Languages:
+- JavaScript (ES6+), TypeScript, C#
+
+Front-End Development:
+- React.js, Angular, Three.js
+- HTML5, CSS3 (SCSS, Tailwind CSS)
+
+Back-End & Databases:
+- Node.js, Express.js
+- SQL, MySQL
+
+Tools & Version Control:
+- Git & GitHub, Figma, Vite, Webpack
+
+Game Development & 3D:
+- Unity (C#), Blender, VR/AR Development
+
+---
+
+📌 Featured Projects
+
+🎬 Me Indica Um Filme
+A movie recommendation platform based on IMDb ratings and user preferences.
+- Tech: React, Vite, API Integration
+- GitHub Repo: [meindicaumfilme](https://github.com/jvictorragazzi/meindicaumfilme)
+
+🏛️ Arteix Website
+A modern website built for an export company, featuring an elegant UI.
+- Tech: React, Tailwind CSS, Vite
+- Live Demo: [arteix.com](https://www.arteix.com)
+
+🎮 Solar System Viewer (Three.js Project)
+An interactive 3D solar system visualization tool for educational purposes.
+- Tech: Three.js, JavaScript, WebGL
+- GitHub Repo: [solar-system-3d](https://github.com/jvictorragazzi/solar-system-3d)
+
+---
+
+📫 Contact Me
+- Email: jvictorragazzi@gmail.com
+- LinkedIn: [linkedin.com/in/jvictorragazzi](https://www.linkedin.com/in/jvictorragazzi)
+- GitHub: [github.com/jvictorragazzi](https://github.com/jvictorragazzi)
+
+Let's build something awesome together! 🚀
